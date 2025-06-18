@@ -18,4 +18,4 @@ A simple and responsive single-page website (SPA) inspired by Nike's official la
 - React
 - Vite
 - HTML, CSS
-- 
+  
