@@ -11,7 +11,7 @@ A simple and responsive single-page website (SPA) inspired by Nike's official la
 
 ## 🚀 Live Demo
 
-👉 [https://Nike-Website-jr.netlify.app](https://https://Nike-Website-jr.netlify.app) 
+👉 [https://Nike-Website-jr.netlify.app](https://nike-website-jr.netlify.app/) 
 
 ## 🛠 Tech Stack
 
